@@ -1,3 +1,5 @@
+import { createGlobalStyle } from "styled-components";
+
 const GlobalStyle = createGlobalStyle`
 html {
   line-height: 1.15;

@@ -10,7 +10,7 @@ const GradientBackground = styled.div`
 function App() {
   return (
     <GradientBackground>
-
+      <GlobalStyle />
     </GradientBackground>
   )
 }
